@@ -1,5 +1,3 @@
-<h2> Hi, I'm Takeshi Nakamoto!</h2>
-
 <p><em>  Blockchain & Full-Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
 Passionate about safeguarding WEB3 & Blockchain! ❤️🔐 
     </em></p>
